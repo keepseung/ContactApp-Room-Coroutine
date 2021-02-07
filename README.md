@@ -2,8 +2,10 @@
 Room + Coroutine을 사용한 연락처를 추가, 수정, 삭제할 수 있는 앱입니다. 
 
 ## ContactApp Preview
-![스크린샷 2021-02-08 오전 12 32 45](https://user-images.githubusercontent.com/68800994/107151647-ffadcd00-69a6-11eb-9df3-a175a96ad7dc.png)
-![스크린샷 2021-02-08 오전 12 32 19](https://user-images.githubusercontent.com/68800994/107151648-00defa00-69a7-11eb-8487-870d4e0137b9.png)     
+
+
+![](https://user-images.githubusercontent.com/68800994/107151648-00defa00-69a7-11eb-8487-870d4e0137b9.png)     
+![](https://user-images.githubusercontent.com/68800994/107151647-ffadcd00-69a6-11eb-9df3-a175a96ad7dc.png)
 
 ## Libraries
 
