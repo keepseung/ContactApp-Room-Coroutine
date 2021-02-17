@@ -1,5 +1,5 @@
 # ContactApp-Room-Coroutine
-Room + Coroutine을 사용한 연락처를 추가, 수정, 삭제할 수 있는 앱입니다. 
+Room + Coroutine을 사용해서 연락처를 추가, 수정, 삭제할 수 있는 앱입니다. 
 
 ## ContactApp Preview
 
